@@ -1,0 +1,181 @@
+INFO:root:Train set: Epoch: 0 [32/7137]	Accuracy: 3/32 (9%)	Loss: 0.069864
+INFO:root:Val set: Accuracy: 159/806 (20%)	Loss: 0.066645
+INFO:root:Train set: Epoch: 0 [3232/7137]	Accuracy: 2109/3200 (66%)	Loss: 0.030864
+INFO:root:Val set: Accuracy: 687/806 (85%)	Loss: 0.015266
+INFO:root:Train set: Epoch: 0 [6432/7137]	Accuracy: 2797/3200 (87%)	Loss: 0.012339
+INFO:root:Val set: Accuracy: 723/806 (90%)	Loss: 0.010657
+INFO:root:Train set: Epoch: 1 [32/7137]	Accuracy: 30/32 (94%)	Loss: 0.007419
+INFO:root:Val set: Accuracy: 731/806 (91%)	Loss: 0.009354
+INFO:root:Train set: Epoch: 1 [3232/7137]	Accuracy: 2996/3200 (94%)	Loss: 0.006715
+INFO:root:Val set: Accuracy: 733/806 (91%)	Loss: 0.009035
+INFO:root:Train set: Epoch: 1 [6432/7137]	Accuracy: 3035/3200 (95%)	Loss: 0.005717
+INFO:root:Val set: Accuracy: 746/806 (93%)	Loss: 0.007681
+INFO:root:Train set: Epoch: 2 [32/7137]	Accuracy: 30/32 (94%)	Loss: 0.004151
+INFO:root:Val set: Accuracy: 746/806 (93%)	Loss: 0.007733
+INFO:root:Train set: Epoch: 2 [3232/7137]	Accuracy: 3095/3200 (97%)	Loss: 0.003449
+INFO:root:Val set: Accuracy: 751/806 (93%)	Loss: 0.006990
+INFO:root:Train set: Epoch: 2 [6432/7137]	Accuracy: 3105/3200 (97%)	Loss: 0.003247
+INFO:root:Val set: Accuracy: 751/806 (93%)	Loss: 0.007156
+INFO:root:Train set: Epoch: 3 [32/7137]	Accuracy: 31/32 (97%)	Loss: 0.001888
+INFO:root:Val set: Accuracy: 750/806 (93%)	Loss: 0.007036
+INFO:root:Train set: Epoch: 3 [3232/7137]	Accuracy: 3154/3200 (99%)	Loss: 0.001918
+INFO:root:Val set: Accuracy: 753/806 (93%)	Loss: 0.006373
+INFO:root:Train set: Epoch: 3 [6432/7137]	Accuracy: 3165/3200 (99%)	Loss: 0.001592
+INFO:root:Val set: Accuracy: 751/806 (93%)	Loss: 0.006878
+INFO:root:Train set: Epoch: 4 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000794
+INFO:root:Val set: Accuracy: 752/806 (93%)	Loss: 0.006819
+INFO:root:Train set: Epoch: 4 [3232/7137]	Accuracy: 3173/3200 (99%)	Loss: 0.001332
+INFO:root:Val set: Accuracy: 748/806 (93%)	Loss: 0.008040
+INFO:root:Train set: Epoch: 4 [6432/7137]	Accuracy: 3181/3200 (99%)	Loss: 0.001117
+INFO:root:Val set: Accuracy: 754/806 (94%)	Loss: 0.006461
+INFO:root:Train set: Epoch: 5 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000156
+INFO:root:Val set: Accuracy: 757/806 (94%)	Loss: 0.006530
+INFO:root:Train set: Epoch: 5 [3232/7137]	Accuracy: 3187/3200 (100%)	Loss: 0.000903
+INFO:root:Val set: Accuracy: 758/806 (94%)	Loss: 0.006910
+INFO:root:Train set: Epoch: 5 [6432/7137]	Accuracy: 3190/3200 (100%)	Loss: 0.000651
+INFO:root:Val set: Accuracy: 759/806 (94%)	Loss: 0.006358
+INFO:root:Train set: Epoch: 6 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000080
+INFO:root:Val set: Accuracy: 755/806 (94%)	Loss: 0.006547
+INFO:root:Train set: Epoch: 6 [3232/7137]	Accuracy: 3188/3200 (100%)	Loss: 0.000675
+INFO:root:Val set: Accuracy: 752/806 (93%)	Loss: 0.006774
+INFO:root:Train set: Epoch: 6 [6432/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000475
+INFO:root:Val set: Accuracy: 758/806 (94%)	Loss: 0.006798
+INFO:root:Train set: Epoch: 7 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000119
+INFO:root:Val set: Accuracy: 757/806 (94%)	Loss: 0.006752
+INFO:root:Train set: Epoch: 7 [3232/7137]	Accuracy: 3189/3200 (100%)	Loss: 0.000556
+INFO:root:Val set: Accuracy: 754/806 (94%)	Loss: 0.006861
+INFO:root:Train set: Epoch: 7 [6432/7137]	Accuracy: 3196/3200 (100%)	Loss: 0.000330
+INFO:root:Val set: Accuracy: 755/806 (94%)	Loss: 0.006949
+INFO:root:Train set: Epoch: 8 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000516
+INFO:root:Val set: Accuracy: 754/806 (94%)	Loss: 0.007000
+INFO:root:Train set: Epoch: 8 [3232/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000388
+INFO:root:Val set: Accuracy: 756/806 (94%)	Loss: 0.006926
+INFO:root:Train set: Epoch: 8 [6432/7137]	Accuracy: 3194/3200 (100%)	Loss: 0.000330
+INFO:root:Val set: Accuracy: 756/806 (94%)	Loss: 0.007288
+INFO:root:Train set: Epoch: 9 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000289
+INFO:root:Val set: Accuracy: 755/806 (94%)	Loss: 0.007236
+INFO:root:Train set: Epoch: 9 [3232/7137]	Accuracy: 3194/3200 (100%)	Loss: 0.000419
+INFO:root:Val set: Accuracy: 753/806 (93%)	Loss: 0.007192
+INFO:root:Train set: Epoch: 9 [6432/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000274
+INFO:root:Val set: Accuracy: 752/806 (93%)	Loss: 0.007918
+INFO:root:Train set: Epoch: 10 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000088
+INFO:root:Val set: Accuracy: 752/806 (93%)	Loss: 0.007464
+INFO:root:Train set: Epoch: 10 [3232/7137]	Accuracy: 3193/3200 (100%)	Loss: 0.000366
+INFO:root:Val set: Accuracy: 751/806 (93%)	Loss: 0.007385
+INFO:root:Train set: Epoch: 10 [6432/7137]	Accuracy: 3199/3200 (100%)	Loss: 0.000219
+INFO:root:Val set: Accuracy: 757/806 (94%)	Loss: 0.007451
+INFO:root:Train set: Epoch: 11 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000553
+INFO:root:Val set: Accuracy: 745/806 (92%)	Loss: 0.008953
+INFO:root:Train set: Epoch: 11 [3232/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000315
+INFO:root:Val set: Accuracy: 759/806 (94%)	Loss: 0.008169
+INFO:root:Train set: Epoch: 11 [6432/7137]	Accuracy: 3196/3200 (100%)	Loss: 0.000236
+INFO:root:Val set: Accuracy: 759/806 (94%)	Loss: 0.006631
+INFO:root:Train set: Epoch: 12 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000259
+INFO:root:Val set: Accuracy: 754/806 (94%)	Loss: 0.007407
+INFO:root:Train set: Epoch: 12 [3232/7137]	Accuracy: 3188/3200 (100%)	Loss: 0.000393
+INFO:root:Val set: Accuracy: 749/806 (93%)	Loss: 0.008381
+INFO:root:Train set: Epoch: 12 [6432/7137]	Accuracy: 3199/3200 (100%)	Loss: 0.000147
+INFO:root:Val set: Accuracy: 755/806 (94%)	Loss: 0.007400
+INFO:root:Train set: Epoch: 13 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000028
+INFO:root:Val set: Accuracy: 756/806 (94%)	Loss: 0.007095
+INFO:root:Train set: Epoch: 13 [3232/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000236
+INFO:root:Val set: Accuracy: 758/806 (94%)	Loss: 0.008181
+INFO:root:Train set: Epoch: 13 [6432/7137]	Accuracy: 3200/3200 (100%)	Loss: 0.000147
+INFO:root:Val set: Accuracy: 759/806 (94%)	Loss: 0.007403
+INFO:root:Train set: Epoch: 14 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000055
+INFO:root:Val set: Accuracy: 753/806 (93%)	Loss: 0.007841
+INFO:root:Train set: Epoch: 14 [3232/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000184
+INFO:root:Val set: Accuracy: 758/806 (94%)	Loss: 0.007236
+INFO:root:Train set: Epoch: 14 [6432/7137]	Accuracy: 3200/3200 (100%)	Loss: 0.000117
+INFO:root:Val set: Accuracy: 756/806 (94%)	Loss: 0.007235
+INFO:root:Train set: Epoch: 15 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000158
+INFO:root:Val set: Accuracy: 761/806 (94%)	Loss: 0.007293
+INFO:root:Train set: Epoch: 15 [3232/7137]	Accuracy: 3196/3200 (100%)	Loss: 0.000330
+INFO:root:Val set: Accuracy: 752/806 (93%)	Loss: 0.008148
+INFO:root:Train set: Epoch: 15 [6432/7137]	Accuracy: 3198/3200 (100%)	Loss: 0.000183
+INFO:root:Val set: Accuracy: 758/806 (94%)	Loss: 0.008070
+INFO:root:Train set: Epoch: 16 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000098
+INFO:root:Val set: Accuracy: 755/806 (94%)	Loss: 0.008945
+INFO:root:Train set: Epoch: 16 [3232/7137]	Accuracy: 3199/3200 (100%)	Loss: 0.000203
+INFO:root:Val set: Accuracy: 760/806 (94%)	Loss: 0.007463
+INFO:root:Train set: Epoch: 16 [6432/7137]	Accuracy: 3199/3200 (100%)	Loss: 0.000141
+INFO:root:Val set: Accuracy: 759/806 (94%)	Loss: 0.008172
+INFO:root:Train set: Epoch: 17 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000014
+INFO:root:Val set: Accuracy: 758/806 (94%)	Loss: 0.007872
+INFO:root:Train set: Epoch: 17 [3232/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000202
+INFO:root:Val set: Accuracy: 755/806 (94%)	Loss: 0.008221
+INFO:root:Train set: Epoch: 17 [6432/7137]	Accuracy: 3198/3200 (100%)	Loss: 0.000124
+INFO:root:Val set: Accuracy: 762/806 (95%)	Loss: 0.007079
+INFO:root:Train set: Epoch: 18 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000018
+INFO:root:Val set: Accuracy: 763/806 (95%)	Loss: 0.007165
+INFO:root:Train set: Epoch: 18 [3232/7137]	Accuracy: 3195/3200 (100%)	Loss: 0.000194
+INFO:root:Val set: Accuracy: 756/806 (94%)	Loss: 0.008145
+INFO:root:Train set: Epoch: 18 [6432/7137]	Accuracy: 3199/3200 (100%)	Loss: 0.000118
+INFO:root:Val set: Accuracy: 762/806 (95%)	Loss: 0.006998
+INFO:root:Train set: Epoch: 19 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000055
+INFO:root:Val set: Accuracy: 759/806 (94%)	Loss: 0.007551
+INFO:root:Train set: Epoch: 19 [3232/7137]	Accuracy: 3200/3200 (100%)	Loss: 0.000148
+INFO:root:Val set: Accuracy: 757/806 (94%)	Loss: 0.008600
+INFO:root:Train set: Epoch: 19 [6432/7137]	Accuracy: 3199/3200 (100%)	Loss: 0.000128
+INFO:root:Val set: Accuracy: 762/806 (95%)	Loss: 0.009270
+INFO:root:Train set: Epoch: 20 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000017
+INFO:root:Val set: Accuracy: 762/806 (95%)	Loss: 0.007620
+INFO:root:Train set: Epoch: 20 [3232/7137]	Accuracy: 3198/3200 (100%)	Loss: 0.000141
+INFO:root:Val set: Accuracy: 756/806 (94%)	Loss: 0.008328
+INFO:root:Train set: Epoch: 20 [6432/7137]	Accuracy: 3199/3200 (100%)	Loss: 0.000106
+INFO:root:Val set: Accuracy: 760/806 (94%)	Loss: 0.007820
+INFO:root:Train set: Epoch: 21 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000009
+INFO:root:Val set: Accuracy: 757/806 (94%)	Loss: 0.008373
+INFO:root:Train set: Epoch: 21 [3232/7137]	Accuracy: 3194/3200 (100%)	Loss: 0.000263
+INFO:root:Val set: Accuracy: 747/806 (93%)	Loss: 0.010112
+INFO:root:Train set: Epoch: 21 [6432/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000138
+INFO:root:Val set: Accuracy: 757/806 (94%)	Loss: 0.009743
+INFO:root:Train set: Epoch: 22 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000191
+INFO:root:Val set: Accuracy: 751/806 (93%)	Loss: 0.009211
+INFO:root:Train set: Epoch: 22 [3232/7137]	Accuracy: 3195/3200 (100%)	Loss: 0.000290
+INFO:root:Val set: Accuracy: 751/806 (93%)	Loss: 0.009392
+INFO:root:Train set: Epoch: 22 [6432/7137]	Accuracy: 3199/3200 (100%)	Loss: 0.000114
+INFO:root:Val set: Accuracy: 757/806 (94%)	Loss: 0.007977
+INFO:root:Train set: Epoch: 23 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000038
+INFO:root:Val set: Accuracy: 756/806 (94%)	Loss: 0.008077
+INFO:root:Train set: Epoch: 23 [3232/7137]	Accuracy: 3198/3200 (100%)	Loss: 0.000163
+INFO:root:Val set: Accuracy: 754/806 (94%)	Loss: 0.009994
+INFO:root:Train set: Epoch: 23 [6432/7137]	Accuracy: 3198/3200 (100%)	Loss: 0.000092
+INFO:root:Val set: Accuracy: 756/806 (94%)	Loss: 0.010856
+INFO:root:Train set: Epoch: 24 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000039
+INFO:root:Val set: Accuracy: 752/806 (93%)	Loss: 0.008106
+INFO:root:Train set: Epoch: 24 [3232/7137]	Accuracy: 3194/3200 (100%)	Loss: 0.000160
+INFO:root:Val set: Accuracy: 757/806 (94%)	Loss: 0.008977
+INFO:root:Train set: Epoch: 24 [6432/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000097
+INFO:root:Val set: Accuracy: 759/806 (94%)	Loss: 0.008128
+INFO:root:Train set: Epoch: 25 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000017
+INFO:root:Val set: Accuracy: 761/806 (94%)	Loss: 0.007834
+INFO:root:Train set: Epoch: 25 [3232/7137]	Accuracy: 3195/3200 (100%)	Loss: 0.000170
+INFO:root:Val set: Accuracy: 758/806 (94%)	Loss: 0.006960
+INFO:root:Train set: Epoch: 25 [6432/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000121
+INFO:root:Val set: Accuracy: 754/806 (94%)	Loss: 0.008226
+INFO:root:Train set: Epoch: 26 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000030
+INFO:root:Val set: Accuracy: 755/806 (94%)	Loss: 0.008076
+INFO:root:Train set: Epoch: 26 [3232/7137]	Accuracy: 3199/3200 (100%)	Loss: 0.000141
+INFO:root:Val set: Accuracy: 756/806 (94%)	Loss: 0.008671
+INFO:root:Train set: Epoch: 26 [6432/7137]	Accuracy: 3199/3200 (100%)	Loss: 0.000082
+INFO:root:Val set: Accuracy: 754/806 (94%)	Loss: 0.008248
+INFO:root:Train set: Epoch: 27 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000006
+INFO:root:Val set: Accuracy: 754/806 (94%)	Loss: 0.008588
+INFO:root:Train set: Epoch: 27 [3232/7137]	Accuracy: 3200/3200 (100%)	Loss: 0.000113
+INFO:root:Val set: Accuracy: 758/806 (94%)	Loss: 0.008131
+INFO:root:Train set: Epoch: 27 [6432/7137]	Accuracy: 3200/3200 (100%)	Loss: 0.000064
+INFO:root:Val set: Accuracy: 758/806 (94%)	Loss: 0.007974
+INFO:root:Train set: Epoch: 28 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000006
+INFO:root:Val set: Accuracy: 754/806 (94%)	Loss: 0.008566
+INFO:root:Train set: Epoch: 28 [3232/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000117
+INFO:root:Val set: Accuracy: 762/806 (95%)	Loss: 0.007916
+INFO:root:Train set: Epoch: 28 [6432/7137]	Accuracy: 3197/3200 (100%)	Loss: 0.000122
+INFO:root:Val set: Accuracy: 759/806 (94%)	Loss: 0.007069
+INFO:root:Train set: Epoch: 29 [32/7137]	Accuracy: 32/32 (100%)	Loss: 0.000003
+INFO:root:Val set: Accuracy: 758/806 (94%)	Loss: 0.007070
+INFO:root:Train set: Epoch: 29 [3232/7137]	Accuracy: 3198/3200 (100%)	Loss: 0.000125
+INFO:root:Val set: Accuracy: 753/806 (93%)	Loss: 0.008196
+INFO:root:Train set: Epoch: 29 [6432/7137]	Accuracy: 3200/3200 (100%)	Loss: 0.000061
+INFO:root:Val set: Accuracy: 759/806 (94%)	Loss: 0.008126
+INFO:root:Test set: Accuracy: 1547/2048 (76%)

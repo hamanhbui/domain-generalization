@@ -1,0 +1,61 @@
+INFO:root:Val set: Accuracy: 706/843 (84%)	Loss: 0.015368
+INFO:root:Test set: Accuracy: 1423/1670 (85%)
+INFO:root:Val set: Accuracy: 721/843 (86%)	Loss: 0.013242
+INFO:root:Test set: Accuracy: 1485/1670 (89%)
+INFO:root:Val set: Accuracy: 733/843 (87%)	Loss: 0.012098
+INFO:root:Test set: Accuracy: 1478/1670 (89%)
+INFO:root:Val set: Accuracy: 737/843 (87%)	Loss: 0.011890
+INFO:root:Test set: Accuracy: 1481/1670 (89%)
+INFO:root:Val set: Accuracy: 737/843 (87%)	Loss: 0.012097
+INFO:root:Test set: Accuracy: 1496/1670 (90%)
+INFO:root:Val set: Accuracy: 748/843 (89%)	Loss: 0.011470
+INFO:root:Test set: Accuracy: 1509/1670 (90%)
+INFO:root:Val set: Accuracy: 743/843 (88%)	Loss: 0.012368
+INFO:root:Test set: Accuracy: 1493/1670 (89%)
+INFO:root:Val set: Accuracy: 756/843 (90%)	Loss: 0.011596
+INFO:root:Test set: Accuracy: 1486/1670 (89%)
+INFO:root:Val set: Accuracy: 749/843 (89%)	Loss: 0.012430
+INFO:root:Test set: Accuracy: 1491/1670 (89%)
+INFO:root:Val set: Accuracy: 751/843 (89%)	Loss: 0.011806
+INFO:root:Test set: Accuracy: 1517/1670 (91%)
+INFO:root:Val set: Accuracy: 753/843 (89%)	Loss: 0.012029
+INFO:root:Test set: Accuracy: 1520/1670 (91%)
+INFO:root:Val set: Accuracy: 748/843 (89%)	Loss: 0.012951
+INFO:root:Test set: Accuracy: 1515/1670 (91%)
+INFO:root:Val set: Accuracy: 759/843 (90%)	Loss: 0.011419
+INFO:root:Test set: Accuracy: 1486/1670 (89%)
+INFO:root:Val set: Accuracy: 764/843 (91%)	Loss: 0.011327
+INFO:root:Test set: Accuracy: 1457/1670 (87%)
+INFO:root:Val set: Accuracy: 758/843 (90%)	Loss: 0.011780
+INFO:root:Test set: Accuracy: 1471/1670 (88%)
+INFO:root:Val set: Accuracy: 762/843 (90%)	Loss: 0.012423
+INFO:root:Test set: Accuracy: 1489/1670 (89%)
+INFO:root:Val set: Accuracy: 753/843 (89%)	Loss: 0.011786
+INFO:root:Test set: Accuracy: 1508/1670 (90%)
+INFO:root:Val set: Accuracy: 755/843 (90%)	Loss: 0.012065
+INFO:root:Test set: Accuracy: 1494/1670 (89%)
+INFO:root:Val set: Accuracy: 747/843 (89%)	Loss: 0.012532
+INFO:root:Test set: Accuracy: 1489/1670 (89%)
+INFO:root:Val set: Accuracy: 750/843 (89%)	Loss: 0.013162
+INFO:root:Test set: Accuracy: 1502/1670 (90%)
+INFO:root:Val set: Accuracy: 757/843 (90%)	Loss: 0.011318
+INFO:root:Test set: Accuracy: 1483/1670 (89%)
+INFO:root:Val set: Accuracy: 755/843 (90%)	Loss: 0.011883
+INFO:root:Test set: Accuracy: 1500/1670 (90%)
+INFO:root:Val set: Accuracy: 759/843 (90%)	Loss: 0.011640
+INFO:root:Test set: Accuracy: 1481/1670 (89%)
+INFO:root:Val set: Accuracy: 757/843 (90%)	Loss: 0.011669
+INFO:root:Test set: Accuracy: 1526/1670 (91%)
+INFO:root:Val set: Accuracy: 758/843 (90%)	Loss: 0.012588
+INFO:root:Test set: Accuracy: 1480/1670 (89%)
+INFO:root:Val set: Accuracy: 751/843 (89%)	Loss: 0.013346
+INFO:root:Test set: Accuracy: 1502/1670 (90%)
+INFO:root:Val set: Accuracy: 751/843 (89%)	Loss: 0.012309
+INFO:root:Test set: Accuracy: 1508/1670 (90%)
+INFO:root:Val set: Accuracy: 761/843 (90%)	Loss: 0.012256
+INFO:root:Test set: Accuracy: 1506/1670 (90%)
+INFO:root:Val set: Accuracy: 758/843 (90%)	Loss: 0.012176
+INFO:root:Test set: Accuracy: 1516/1670 (91%)
+INFO:root:Val set: Accuracy: 759/843 (90%)	Loss: 0.012679
+INFO:root:Test set: Accuracy: 1521/1670 (91%)
+INFO:root:Test set: Accuracy: 1521/1670 (91%)

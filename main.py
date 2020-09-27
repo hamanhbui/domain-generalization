@@ -6,7 +6,10 @@ import numpy as np
 import random
 
 from algorithms.Baseline.src.Trainer_Baseline import Trainer_Baseline
+from algorithms.AGG.src.Trainer_AGG import Trainer_AGG
 from algorithms.JiGen.src.Trainer_JiGen import Trainer_JiGen
+from algorithms.Metric.src.Trainer_Metric import Trainer_Metric
+from algorithms.DSDI.src.Trainer_DSDI import Trainer_DSDI
 
 def set_random_seed(seed_value):
     random.seed(seed_value)
@@ -22,7 +25,10 @@ def set_random_seed(seed_value):
 
 algorithms_map = {
     'Baseline': Trainer_Baseline,
-    'JiGen': Trainer_JiGen
+    'JiGen': Trainer_JiGen,
+    'AGG': Trainer_AGG,
+    'Metric': Trainer_Metric,
+    'DSDI': Trainer_DSDI
 }
 
 if __name__ == "__main__":
