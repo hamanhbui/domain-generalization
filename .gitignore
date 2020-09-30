@@ -1,5 +1,3 @@
 __pycache__/
-data/PACS_DataSet/Raw images/
-data/VLCS/Raw images/
+data/
 pretrained_models/
-**/checkpoints

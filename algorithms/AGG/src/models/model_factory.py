@@ -1,12 +1,8 @@
-from algorithms.AGG.src.models import alexnet
 from algorithms.AGG.src.models import resnet
-from algorithms.AGG.src.models import caffenet
 
 nets_map = {
-    'alexnet': alexnet.alexnet,
     'resnet18': resnet.resnet18,
-    'resnet50': resnet.resnet50,
-    'caffenet': caffenet.caffenet
+    'resnet50': resnet.resnet50
 }
 
 def get_model(name):
